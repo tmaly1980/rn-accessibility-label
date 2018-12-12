@@ -66,6 +66,16 @@
                ReferencedContainer = "container:pp5.xcodeproj">
             </BuildableReference>
          </TestableReference>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "C32AE2DC21C0E7B300B953A8"
+               BuildableName = "pp5UITests.xctest"
+               BlueprintName = "pp5UITests"
+               ReferencedContainer = "container:pp5.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
